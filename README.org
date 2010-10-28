@@ -1,0 +1,69 @@
+#+DATE: [2010-10-28T11:44:06+0900]
+#+TITLE: README for cjkinfo
+
+* Intro
+
+Over many years I have collected various bits and pieces of information about East-Asian, especially Chinese characters.  There is really no reason to keep this secret, except for the fact that:
+ - The stuff appearing here is my own personal copy, not revised or polished for publication
+ - So far I have been too lazy to clean things up and make them available, but since people continue to ask about it, I will start to dig stuff out and put them here
+ - Use at your own risk, but with attribution please. 
+
+
+* License
+
+This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
+
+* Contents
+
+Here is what there is so far:
+
+** Pinyin stuff
+   Sometime in August 2006, I tried to improve my pinyin tables by
+   introducing frequency information, that would allow a program to
+   choose the most frequent one if an automatic decision has to be
+   made. The resulting file is pinyinstat.tab, while most of the other
+   files are intermediate files that I used to produce this. All this
+   is in the pinyin directory.
+
+   - pinyinstat.tab 
+
+     the file currently has 81986 lines, including characters from
+     CJK-Extension B, so be careful when handling it.
+
+   - charratio.tab
+   - pyflat.tab
+   - pybigram.tab
+   - pyprob.txt
+   - pinyin-merge.tab
+   - pinyintable.tab
+
+** Variant stuff
+   - univardb.xml
+     
+     This file basically encodes the information from the Unihan
+     database as of ca. 2006 into XML.
+     
+   - twjp-vardb.xml
+     
+     This file groups characters together that can appear exchangeable
+     in certain context.  Characters within each group are flagged
+     either with @type='reg' as regular characters (whatever that
+     means) or as 'shinji', which means these are the simplified
+     characters in modern use in Japan (which could be considered
+     regular by some).  There is also a @type='tw', which signals a
+     character that would be seen by users in Taiwan or using
+     Traditional Chinese characters.  In this group, there is
+     typically another character flagged as @subtype='jp', which
+     means, that this is the form used in Japan.
+
+**  More to come
+    
+    Whenever I have time to dig it out and describe it here.
+
+* Questions?
+
+  Please ask me at cwittern (at) gmail (dot) com
+
+  Christian Wittern
+
+

@@ -1,0 +1,1582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dic>
+ <charGroup>
+  <c type="reg">惡</c>
+  <c type="shinji">悪</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">壓</c>
+  <c type="shinji">圧</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">圍</c>
+  <c type="shinji">囲</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">爲</c>
+  <c type="shinji">為</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">醫</c>
+  <c type="shinji">医</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">壹</c>
+  <c type="shinji">壱</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">稻</c>
+  <c type="shinji">稲</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">飮</c>
+  <c type="shinji">飲</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">隱</c>
+  <c type="shinji">隠</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">營</c>
+  <c type="shinji">営</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">榮</c>
+  <c type="shinji">栄</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">衞</c>
+  <c type="shinji">衛</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">驛</c>
+  <c type="shinji">駅</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">圓</c>
+  <c type="shinji">円</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">艷</c>
+  <c type="shinji">艶</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">鹽</c>
+  <c type="shinji">塩</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">奧</c>
+  <c type="shinji">奥</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">應</c>
+  <c type="shinji">応</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">歐</c>
+  <c type="shinji">欧</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">毆</c>
+  <c type="shinji">殴</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">穩</c>
+  <c type="shinji">穏</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">假</c>
+  <c type="shinji">仮</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">價</c>
+  <c type="shinji">価</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">畫</c>
+  <c type="shinji">画</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">會</c>
+  <c type="shinji">会</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">囘</c>
+  <c type="shinji">回</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">壞</c>
+  <c type="shinji">壊</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">懷</c>
+  <c type="shinji">懐</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">繪</c>
+  <c type="shinji">絵</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">擴</c>
+  <c type="shinji">拡</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">殼</c>
+  <c type="shinji">殻</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">覺</c>
+  <c type="shinji">覚</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">學</c>
+  <c type="shinji">学</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">嶽</c>
+  <c type="shinji">岳</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">樂</c>
+  <c type="shinji">楽</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">勸</c>
+  <c type="shinji">勧</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">卷</c>
+  <c type="shinji">巻</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">歡</c>
+  <c type="shinji">歓</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">罐</c>
+  <c type="shinji">缶</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">觀</c>
+  <c type="shinji">観</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">關</c>
+  <c type="shinji">関</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">陷</c>
+  <c type="shinji">陥</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">巖</c>
+  <c type="shinji">巌</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">顏</c>
+  <c type="shinji">顔</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">歸</c>
+  <c type="shinji">帰</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">氣</c>
+  <c type="shinji">気</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">龜</c>
+  <c type="shinji">亀</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">僞</c>
+  <c type="shinji">偽</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">戲</c>
+  <c type="shinji">戯</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">犧</c>
+  <c type="shinji">犠</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">舊</c>
+  <c type="shinji">旧</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">據</c>
+  <c type="shinji">拠</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">擧</c>
+  <c type="shinji">挙</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">峽</c>
+  <c type="shinji">峡</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">挾</c>
+  <c type="shinji">挟</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">狹</c>
+  <c type="shinji">狭</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">堯</c>
+  <c type="shinji">尭</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">曉</c>
+  <c type="shinji">暁</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">區</c>
+  <c type="shinji">区</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">驅</c>
+  <c type="shinji">駆</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">勳</c>
+  <c type="shinji">勲</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">群</c>
+  <c type="shinji">群</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">徑</c>
+  <c type="shinji">径</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">惠</c>
+  <c type="shinji">恵</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">溪</c>
+  <c type="shinji">渓</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">經</c>
+  <c type="shinji">経</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">繼</c>
+  <c type="shinji">継</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">莖</c>
+  <c type="shinji">茎</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">螢</c>
+  <c type="shinji">蛍</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">輕</c>
+  <c type="shinji">軽</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">鷄</c>
+  <c type="shinji">鶏</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">藝</c>
+  <c type="shinji">芸</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">缺</c>
+  <c type="shinji">欠</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">儉</c>
+  <c type="shinji">倹</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">劍</c>
+  <c type="shinji">剣</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">圈</c>
+  <c type="shinji">圏</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">檢</c>
+  <c type="shinji">検</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">權</c>
+  <c type="shinji">権</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">獻</c>
+  <c type="shinji">献</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">縣</c>
+  <c type="shinji">県</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">險</c>
+  <c type="shinji">険</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">顯</c>
+  <c type="shinji">顕</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">驗</c>
+  <c type="shinji">験</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">嚴</c>
+  <c type="shinji">厳</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">效</c>
+  <c type="shinji">効</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">廣</c>
+  <c type="shinji">広</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">恆</c>
+  <c type="shinji">恒</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">鑛</c>
+  <c type="shinji">鉱</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">號</c>
+  <c type="shinji">号</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">國</c>
+  <c type="shinji">国</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">濟</c>
+  <c type="shinji">済</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">碎</c>
+  <c type="shinji">砕</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">齋</c>
+  <c type="shinji">斎</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">劑</c>
+  <c type="shinji">剤</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">櫻</c>
+  <c type="shinji">桜</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">册</c>
+  <c type="shinji">冊</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">雜</c>
+  <c type="shinji">雑</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">參</c>
+  <c type="shinji">参</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">慘</c>
+  <c type="shinji">惨</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">棧</c>
+  <c type="shinji">桟</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">蠶</c>
+  <c type="shinji">蚕</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">贊</c>
+  <c type="shinji">賛</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">殘</c>
+  <c type="shinji">残</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">絲</c>
+  <c type="shinji">糸</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">齒</c>
+  <c type="shinji">歯</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">兒</c>
+  <c type="shinji">児</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">辭</c>
+  <c type="shinji">辞</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">濕</c>
+  <c type="shinji">湿</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">實</c>
+  <c type="shinji">実</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">舍</c>
+  <c type="shinji">舎</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">寫</c>
+  <c type="shinji">写</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">釋</c>
+  <c type="shinji">釈</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">壽</c>
+  <c type="shinji">寿</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">收</c>
+  <c type="shinji">収</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">從</c>
+  <c type="shinji">従</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">澁</c>
+  <c type="shinji">渋</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">獸</c>
+  <c type="shinji">獣</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">縱</c>
+  <c type="shinji">縦</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">肅</c>
+  <c type="shinji">粛</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">處</c>
+  <c type="shinji">処</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">敍</c>
+  <c type="shinji">叙</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">奬</c>
+  <c type="shinji">奨</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">將</c>
+  <c type="shinji">将</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">燒</c>
+  <c type="shinji">焼</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">稱</c>
+  <c type="shinji">称</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">證</c>
+  <c type="shinji">証</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">乘</c>
+  <c type="shinji">乗</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">剩</c>
+  <c type="shinji">剰</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">壤</c>
+  <c type="shinji">壌</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">孃</c>
+  <c type="shinji">嬢</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">條</c>
+  <c type="shinji">条</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">淨</c>
+  <c type="shinji">浄</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">疊</c>
+  <c type="shinji">畳</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">穰</c>
+  <c type="shinji">穣</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">讓</c>
+  <c type="shinji">譲</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">釀</c>
+  <c type="shinji">醸</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">囑</c>
+  <c type="shinji">嘱</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">觸</c>
+  <c type="shinji">触</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">寢</c>
+  <c type="shinji">寝</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">愼</c>
+  <c type="shinji">慎</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">晉</c>
+  <c type="shinji">晋</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">眞</c>
+  <c type="shinji">真</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">盡</c>
+  <c type="shinji">尽</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">圖</c>
+  <c type="shinji">図</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">粹</c>
+  <c type="shinji">粋</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">醉</c>
+  <c type="shinji">酔</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">隨</c>
+  <c type="shinji">随</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">髓</c>
+  <c type="shinji">髄</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">數</c>
+  <c type="shinji">数</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">樞</c>
+  <c type="shinji">枢</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">聲</c>
+  <c type="shinji">声</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">靜</c>
+  <c type="shinji">静</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">齊</c>
+  <c type="shinji">斉</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">攝</c>
+  <c type="shinji">摂</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">竊</c>
+  <c type="shinji">窃</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">戰</c>
+  <c type="shinji">戦</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">淺</c>
+  <c type="shinji">浅</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">纖</c>
+  <c type="shinji">繊</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">踐</c>
+  <c type="shinji">践</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">錢</c>
+  <c type="shinji">銭</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">禪</c>
+  <c type="shinji">禅</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">雙</c>
+  <c type="shinji">双</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">壯</c>
+  <c type="shinji">壮</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">搜</c>
+  <c type="shinji">捜</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">插</c>
+  <c type="shinji">挿</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">爭</c>
+  <c type="shinji">争</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">窗</c>
+  <c type="shinji">窓</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">總</c>
+  <c type="shinji">総</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">聰</c>
+  <c type="shinji">聡</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">莊</c>
+  <c type="shinji">荘</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">裝</c>
+  <c type="shinji">装</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">騷</c>
+  <c type="shinji">騒</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">臟</c>
+  <c type="shinji">臓</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">藏</c>
+  <c type="shinji">蔵</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">屬</c>
+  <c type="shinji">属</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">續</c>
+  <c type="shinji">続</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">墮</c>
+  <c type="shinji">堕</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">體</c>
+  <c type="shinji">体</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">對</c>
+  <c type="shinji">対</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">帶</c>
+  <c type="shinji">帯</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">滯</c>
+  <c type="shinji">滞</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">臺</c>
+  <c type="shinji">台</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">瀧</c>
+  <c type="shinji">滝</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">擇</c>
+  <c type="shinji">択</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">澤</c>
+  <c type="shinji">沢</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">竪</c>
+  <c type="shinji">竪</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">單</c>
+  <c type="shinji">単</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">擔</c>
+  <c type="shinji">担</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">膽</c>
+  <c type="shinji">胆</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">團</c>
+  <c type="shinji">団</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">彈</c>
+  <c type="shinji">弾</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">斷</c>
+  <c type="shinji">断</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">癡</c>
+  <c type="shinji">痴</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">遲</c>
+  <c type="shinji">遅</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">晝</c>
+  <c type="shinji">昼</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">蟲</c>
+  <c type="shinji">虫</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">鑄</c>
+  <c type="shinji">鋳</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">廳</c>
+  <c type="shinji">庁</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">聽</c>
+  <c type="shinji">聴</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">敕</c>
+  <c type="shinji">勅</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">鎭</c>
+  <c type="shinji">鎮</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">遞</c>
+  <c type="shinji">逓</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">鐵</c>
+  <c type="shinji">鉄</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">轉</c>
+  <c type="shinji">転</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">點</c>
+  <c type="shinji">点</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">傳</c>
+  <c type="shinji">伝</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">黨</c>
+  <c type="shinji">党</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">棟</c>
+  <c type="shinji">棟</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">盜</c>
+  <c type="shinji">盗</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">燈</c>
+  <c type="shinji">灯</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">當</c>
+  <c type="shinji">当</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">鬪</c>
+  <c type="shinji">闘</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">獨</c>
+  <c type="shinji">独</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">讀</c>
+  <c type="shinji">読</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">屆</c>
+  <c type="shinji">届</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">繩</c>
+  <c type="shinji">縄</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">惱</c>
+  <c type="shinji">悩</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">腦</c>
+  <c type="shinji">脳</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">廢</c>
+  <c type="shinji">廃</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">拜</c>
+  <c type="shinji">拝</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">賣</c>
+  <c type="shinji">売</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">麥</c>
+  <c type="shinji">麦</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">發</c>
+  <c type="shinji">発</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">髮</c>
+  <c type="shinji">髪</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">拔</c>
+  <c type="shinji">抜</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">蠻</c>
+  <c type="shinji">蛮</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">祕</c>
+  <c type="shinji">秘</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">濱</c>
+  <c type="shinji">浜</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">拂</c>
+  <c type="shinji">払</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">佛</c>
+  <c type="shinji">仏</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">竝</c>
+  <c type="shinji">並</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">變</c>
+  <c type="shinji">変</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">邊</c>
+  <c type="shinji">辺</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">辨</c>
+  <c type="shinji">弁</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">舖</c>
+  <c type="shinji">舗</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">穗</c>
+  <c type="shinji">穂</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">寶</c>
+  <c type="shinji">宝</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">褒</c>
+  <c type="shinji">褒</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">豐</c>
+  <c type="shinji">豊</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">沒</c>
+  <c type="shinji">没</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">槇</c>
+  <c type="shinji">槙</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">萬</c>
+  <c type="shinji">万</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">滿</c>
+  <c type="shinji">満</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">壻</c>
+  <c type="shinji">婿</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">默</c>
+  <c type="shinji">黙</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">彌</c>
+  <c type="shinji">弥</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">藥</c>
+  <c type="shinji">薬</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">譯</c>
+  <c type="shinji">訳</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">豫</c>
+  <c type="shinji">予</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">餘</c>
+  <c type="shinji">余</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">與</c>
+  <c type="shinji">与</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">譽</c>
+  <c type="shinji">誉</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">搖</c>
+  <c type="shinji">揺</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">樣</c>
+  <c type="shinji">様</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">謠</c>
+  <c type="shinji">謡</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">遙</c>
+  <c type="shinji">遥</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">來</c>
+  <c type="shinji">来</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">亂</c>
+  <c type="shinji">乱</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">覽</c>
+  <c type="shinji">覧</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">龍</c>
+  <c type="shinji">竜</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">兩</c>
+  <c type="shinji">両</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">獵</c>
+  <c type="shinji">猟</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">壘</c>
+  <c type="shinji">塁</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">勵</c>
+  <c type="shinji">励</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">禮</c>
+  <c type="shinji">礼</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">靈</c>
+  <c type="shinji">霊</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">戀</c>
+  <c type="shinji">恋</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">爐</c>
+  <c type="shinji">炉</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">勞</c>
+  <c type="shinji">労</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">樓</c>
+  <c type="shinji">楼</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">祿</c>
+  <c type="shinji">禄</c>
+ </charGroup>
+ <charGroup>
+  <c type="reg">灣</c>
+  <c type="shinji">湾</c>
+ </charGroup>
+
+ <!-- the following added from vardb minus a few offending characters: 芸鷄浄 -->
+
+ <charGroup>
+  <c type="tw" ref="U+4F89">侉</c>
+  <c type="reg" subtype="jp" ref="U+8A87">誇</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+4FC1">俁</c>
+  <c type="reg" subtype="jp" ref="U+4FE3">俣</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+4FDE">俞</c>
+  <c type="reg" subtype="jp" ref="U+516A">兪</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+4FE0">俠</c>
+  <c type="reg" subtype="jp" ref="U+4FA0">侠</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+4FF1">俱</c>
+  <c type="reg" subtype="jp" ref="U+5036">倶</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+503C">值</c>
+  <c type="reg" subtype="jp" ref="U+5024">値</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+5077">偷</c>
+  <c type="reg" subtype="jp" ref="U+5078">偸</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+5167">內</c>
+  <c type="reg" subtype="jp" ref="U+5185">内</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+524E">剎</c>
+  <c type="reg" subtype="jp" ref="U+5239">刹</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+525D">剝</c>
+  <c type="reg" subtype="jp" ref="U+5265">剥</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+541E">吞</c>
+  <c type="reg" subtype="jp" ref="U+5451">呑</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+5433">吳</c>
+  <c type="reg" subtype="jp" ref="U+5449">呉</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+5527">唧</c>
+  <c type="reg" subtype="jp" ref="U+559E">喞</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+555E">啞</c>
+  <c type="reg" subtype="jp" ref="U+5516">唖</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+555F">啟</c>
+  <c type="reg" subtype="jp" ref="U+5553">啓</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+55BB">喻</c>
+  <c type="reg" subtype="jp" ref="U+55A9">喩</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+5653">噓</c>
+  <c type="reg" subtype="jp" ref="U+5618">嘘</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+56CA">囊</c>
+  <c type="reg" subtype="jp" ref="U+56A2">嚢</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+5807">堇</c>
+  <c type="reg" subtype="jp" ref="U+83EB">菫</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+589E">增</c>
+  <c type="reg" subtype="jp" ref="U+5897">増</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+59CA">姊</c>
+  <c type="reg" subtype="jp" ref="U+59C9">姉</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+5A1B">娛</c>
+  <c type="reg" subtype="jp" ref="U+5A2F">娯</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+5BD8">寘</c>
+  <c type="reg" subtype="jp" ref="U+7F6E">置</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+5BEC">寬</c>
+  <c type="reg" subtype="jp" ref="U+5BDB">寛</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+5C62">屢</c>
+  <c type="reg" subtype="jp" ref="U+5C61">屡</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+5DD4">巔</c>
+  <c type="reg" subtype="jp" ref="U+5DD3">巓</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+5DE2">巢</c>
+  <c type="reg" subtype="jp" ref="U+5DE3">巣</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+5E6B">幫</c>
+  <c type="reg" subtype="jp" ref="U+5E47">幇</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+5EC4">廄</c>
+  <c type="reg" subtype="jp" ref="U+5ED0">廐</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+5F12">弒</c>
+  <c type="reg" subtype="jp" ref="U+5F11">弑</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+5F65">彥</c>
+  <c type="reg" subtype="jp" ref="U+5F66">彦</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+5FB7">德</c>
+  <c type="reg" subtype="jp" ref="U+5FB3">徳</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+6085">悅</c>
+  <c type="reg" subtype="jp" ref="U+60A6">悦</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+6236">戶</c>
+  <c type="reg" subtype="jp" ref="U+6238">戸</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+62CB">拋</c>
+  <c type="reg" subtype="jp" ref="U+629B">抛</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+63ED">揭</c>
+  <c type="reg" subtype="jp" ref="U+63B2">掲</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+6414">搔</c>
+  <c type="reg" subtype="jp" ref="U+63BB">掻</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+6451">摑</c>
+  <c type="reg" subtype="jp" ref="U+63B4">掴</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+64CA">擊</c>
+  <c type="reg" subtype="jp" ref="U+6483">撃</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+6522">攢</c>
+  <c type="reg" subtype="jp" ref="U+6505">攅</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+657B">敻</c>
+  <c type="reg" subtype="jp" ref="U+5910">夐</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+665A">晚</c>
+  <c type="reg" subtype="jp" ref="U+6669">晩</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+66A8">暨</c>
+  <c type="reg" subtype="jp" ref="U+66C1">曁</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+66C6">曆</c>
+  <c type="reg" subtype="jp" ref="U+66A6">暦</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+6735">朵</c>
+  <c type="reg" subtype="jp" ref="U+6736">朶</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+67F0">柰</c>
+  <c type="reg" subtype="jp" ref="U+5948">奈</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+6986">榆</c>
+  <c type="reg" subtype="jp" ref="U+6961">楡</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+6A6B">橫</c>
+  <c type="reg" subtype="jp" ref="U+6A2A">横</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+6A94">檔</c>
+  <c type="reg" subtype="jp" ref="U+6863">档</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+6B65">步</c>
+  <c type="reg" subtype="jp" ref="U+6B69">歩</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+6B72">歲</c>
+  <c type="reg" subtype="jp" ref="U+6B73">歳</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+6B77">歷</c>
+  <c type="reg" subtype="jp" ref="U+6B74">歴</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+6BCF">每</c>
+  <c type="reg" subtype="jp" ref="U+6BCE">毎</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+6BD7">毗</c>
+  <c type="reg" subtype="jp" ref="U+6BD8">毘</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+6D89">涉</c>
+  <c type="reg" subtype="jp" ref="U+6E09">渉</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+6DDA">淚</c>
+  <c type="reg" subtype="jp" ref="U+6D99">涙</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+6E34">渴</c>
+  <c type="reg" subtype="jp" ref="U+6E07">渇</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+6E89">溉</c>
+  <c type="reg" subtype="jp" ref="U+6F11">漑</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+6EAB">溫</c>
+  <c type="reg" subtype="jp" ref="U+6E29">温</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+6F51">潑</c>
+  <c type="reg" subtype="jp" ref="U+6E8C">溌</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+7006">瀆</c>
+  <c type="reg" subtype="jp" ref="U+6D9C">涜</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+7028">瀨</c>
+  <c type="reg" subtype="jp" ref="U+702C">瀬</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+7130">焰</c>
+  <c type="reg" subtype="jp" ref="U+7114">焔</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+72C0">狀</c>
+  <c type="reg" subtype="jp" ref="U+72B6">状</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+7386">玆</c>
+  <c type="reg" subtype="jp" ref="U+8332">茲</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+7522">產</c>
+  <c type="reg" subtype="jp" ref="U+7523">産</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+756C">畬</c>
+  <c type="reg" subtype="jp" ref="U+756D">畭</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+7626">瘦</c>
+  <c type="reg" subtype="jp" ref="U+75E9">痩</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+763A">瘺</c>
+  <c type="reg" subtype="jp" ref="U+763B">瘻</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+773E">眾</c>
+  <c type="reg" subtype="jp" ref="U+8846">衆</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+79B1">禱</c>
+  <c type="reg" subtype="jp" ref="U+7977">祷</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+79CD">种</c>
+  <c type="reg" subtype="jp" ref="U+7A2E">種</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+79CF">秏</c>
+  <c type="reg" subtype="jp" ref="U+8017">耗</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+7A05">稅</c>
+  <c type="reg" subtype="jp" ref="U+7A0E">税</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+7BE1">篡</c>
+  <c type="reg" subtype="jp" ref="U+7C12">簒</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+7BF1">篱</c>
+  <c type="reg" subtype="jp" ref="U+7C6C">籬</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+7C1E">簞</c>
+  <c type="reg" subtype="jp" ref="U+7BAA">箪</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+7CB5">粵</c>
+  <c type="reg" subtype="jp" ref="U+7CA4">粤</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+7D55">絕</c>
+  <c type="reg" subtype="jp" ref="U+7D76">絶</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+7DA0">綠</c>
+  <c type="reg" subtype="jp" ref="U+7DD1">緑</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+7DE3">緣</c>
+  <c type="reg" subtype="jp" ref="U+7E01">縁</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+7E48">繈</c>
+  <c type="reg" subtype="jp" ref="U+7E66">繦</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+7E6B">繫</c>
+  <c type="reg" subtype="jp" ref="U+7E4B">繋</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+7E8A">纊</c>
+  <c type="reg" subtype="jp" ref="U+7D4B">絋</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+7E8D">纍</c>
+  <c type="reg" subtype="jp" ref="U+7D2F">累</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+7E98">纘</c>
+  <c type="reg" subtype="jp" ref="U+7E89">纉</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+7F3D">缽</c>
+  <c type="reg" subtype="jp" ref="U+9262">鉢</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+7F3E">缾</c>
+  <c type="reg" subtype="jp" ref="U+74F6">瓶</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+7FA1">羡</c>
+  <c type="reg" subtype="jp" ref="U+7FA8">羨</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+812B">脫</c>
+  <c type="reg" subtype="jp" ref="U+8131">脱</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+8173">腳</c>
+  <c type="reg" subtype="jp" ref="U+811A">脚</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+8354">荔</c>
+  <c type="reg" subtype="jp" ref="U+8318">茘</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+840A">萊</c>
+  <c type="reg" subtype="jp" ref="U+83B1">莱</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+849E">蒞</c>
+  <c type="reg" subtype="jp" ref="U+8385">莅</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+8523">蔣</c>
+  <c type="reg" subtype="jp" ref="U+848B">蒋</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+85B0">薰</c>
+  <c type="reg" subtype="jp" ref="U+85AB">薫</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+865B">虛</c>
+  <c type="reg" subtype="jp" ref="U+865A">虚</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+87EC">蟬</c>
+  <c type="reg" subtype="jp" ref="U+8749">蝉</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+881F">蠟</c>
+  <c type="reg" subtype="jp" ref="U+874B">蝋</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+8AAA">說</c>
+  <c type="reg" subtype="jp" ref="U+8AAC">説</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+8CF4">賴</c>
+  <c type="reg" subtype="jp" ref="U+983C">頼</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+8D17">贗</c>
+  <c type="reg" subtype="jp" ref="U+8D0B">贋</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+8EB2">躲</c>
+  <c type="reg" subtype="jp" ref="U+8EB1">躱</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+8EC0">軀</c>
+  <c type="reg" subtype="jp" ref="U+8EAF">躯</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+9109">鄉</c>
+  <c type="reg" subtype="jp" ref="U+90F7">郷</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+91AC">醬</c>
+  <c type="reg" subtype="jp" ref="U+91A4">醤</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+91B1">醱</c>
+  <c type="reg" subtype="jp" ref="U+9197">醗</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+92B3">銳</c>
+  <c type="reg" subtype="jp" ref="U+92ED">鋭</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+9304">錄</c>
+  <c type="reg" subtype="jp" ref="U+9332">録</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+95B1">閱</c>
+  <c type="reg" subtype="jp" ref="U+95B2">閲</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+97CC">韌</c>
+  <c type="reg" subtype="jp" ref="U+9771">靱</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+9830">頰</c>
+  <c type="reg" subtype="jp" ref="U+982C">頬</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+9839">頹</c>
+  <c type="reg" subtype="jp" ref="U+983D">頽</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+99B1">馱</c>
+  <c type="reg" subtype="jp" ref="U+99C4">駄</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+9A52">驒</c>
+  <c type="reg" subtype="jp" ref="U+9A28">騨</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+9C49">鱉</c>
+  <c type="reg" subtype="jp" ref="U+9F08">鼈</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+9DD7">鷗</c>
+  <c type="reg" subtype="jp" ref="U+9D0E">鴎</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+9E7C">鹼</c>
+  <c type="reg" subtype="jp" ref="U+9E78">鹸</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+9EB4">麴</c>
+  <c type="reg" subtype="jp" ref="U+9EB9">麹</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+9EB5">麵</c>
+  <c type="reg" subtype="jp" ref="U+9EBA">麺</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+9EC3">黃</c>
+  <c type="reg" subtype="jp" ref="U+9EC4">黄</c>
+ </charGroup>
+ <charGroup>
+  <c type="tw" ref="U+9ED1">黑</c>
+  <c type="reg" subtype="jp" ref="U+9ED2">黒</c>
+ </charGroup>
+</dic>
